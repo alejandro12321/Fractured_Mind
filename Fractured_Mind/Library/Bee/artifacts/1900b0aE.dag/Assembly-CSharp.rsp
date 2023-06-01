@@ -347,6 +347,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+<<<<<<< HEAD
 "Assets/Level 2/Forest_Level/Imported/amusedART/Mushroom_Monster/Script/MushroomMon_Ani_Test.cs"
 "Assets/Level 2/Forest_Level/Imported/Polytope Studio/Lowpoly Medieval Demos/Environment_Free/MouseLook.cs"
 "Assets/Level 2/Forest_Level/Imported/Polytope Studio/Lowpoly Medieval Demos/Environment_Free/PlayerMovement.cs"
@@ -377,6 +378,34 @@
 "Assets/Level 2/Forest_Level/Scripts/InteractionSystem/Inventario.cs"
 "Assets/Level 2/Forest_Level/Scripts/PlayerController.cs"
 "Assets/Level 2/Forest_Level/Scripts/TimerManager.cs"
+=======
+"Assets/Level 4/Forest-Town/FROOD/Scripts/Spin.cs"
+"Assets/Level 4/Forest-Town/Lava_Flowing_Shader/Scripts/ScrollingUVs_Layers.cs"
+"Assets/Level 4/Forest-Town/LowPolyWater_Pack/Scripts/LowPolyWater.cs"
+"Assets/Level 4/Forest-Town/Scripts/arrow_impact.cs"
+"Assets/Level 4/Forest-Town/Scripts/attack_arrow.cs"
+"Assets/Level 4/Forest-Town/Scripts/attack_enemy.cs"
+"Assets/Level 4/Forest-Town/Scripts/CameraFollow.cs"
+"Assets/Level 4/Forest-Town/Scripts/change_camera.cs"
+"Assets/Level 4/Forest-Town/Scripts/credits.cs"
+"Assets/Level 4/Forest-Town/Scripts/end_game.cs"
+"Assets/Level 4/Forest-Town/Scripts/EnemyHealth.cs"
+"Assets/Level 4/Forest-Town/Scripts/fall_platform.cs"
+"Assets/Level 4/Forest-Town/Scripts/FollowPlayer.cs"
+"Assets/Level 4/Forest-Town/Scripts/FoodCoin.cs"
+"Assets/Level 4/Forest-Town/Scripts/GameManager.cs"
+"Assets/Level 4/Forest-Town/Scripts/go_to_mountain.cs"
+"Assets/Level 4/Forest-Town/Scripts/MensajeCubo.cs"
+"Assets/Level 4/Forest-Town/Scripts/NPCInteractable.cs"
+"Assets/Level 4/Forest-Town/Scripts/PlayerController.cs"
+"Assets/Level 4/Forest-Town/Scripts/PlayerInteract.cs"
+"Assets/Level 4/Forest-Town/Scripts/proyectil.cs"
+"Assets/Level 4/Forest-Town/Scripts/sigilo.cs"
+"Assets/Level 4/Forest-Town/Scripts/TalkTrigger.cs"
+"Assets/Level 4/Forest-Town/Scripts/TypeEffect.cs"
+"Assets/Level 4/Forest-Town/Scripts/underworld.cs"
+"Assets/Level 4/Forest-Town/Scripts/WolfAttackTrigger.cs"
+>>>>>>> level_4
 -langversion:9.0
 
 /deterministic

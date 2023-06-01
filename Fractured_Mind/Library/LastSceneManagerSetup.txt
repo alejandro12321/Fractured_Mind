@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Level 2/Forest_Level/Scenes/Forest.unity
+=======
+- path: Assets/Level 4/Forest-Town/Scenes/Town_Forest.unity
+>>>>>>> level_4
   isLoaded: 1
   isActive: 1
   isSubScene: 0
