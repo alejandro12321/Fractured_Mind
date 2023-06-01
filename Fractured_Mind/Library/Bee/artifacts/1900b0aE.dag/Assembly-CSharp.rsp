@@ -347,7 +347,6 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
-<<<<<<< HEAD
 "Assets/Level 2/Forest_Level/Imported/amusedART/Mushroom_Monster/Script/MushroomMon_Ani_Test.cs"
 "Assets/Level 2/Forest_Level/Imported/Polytope Studio/Lowpoly Medieval Demos/Environment_Free/MouseLook.cs"
 "Assets/Level 2/Forest_Level/Imported/Polytope Studio/Lowpoly Medieval Demos/Environment_Free/PlayerMovement.cs"
@@ -371,14 +370,13 @@
 "Assets/Level 2/Forest_Level/Scripts/Bosque/SelectorMadera.cs"
 "Assets/Level 2/Forest_Level/Scripts/Bosque/Tronco.cs"
 "Assets/Level 2/Forest_Level/Scripts/Bosque/WaterMovement.cs"
-"Assets/Level 2/Forest_Level/Scripts/CameraFollow.cs"
 "Assets/Level 2/Forest_Level/Scripts/InteractionSystem/InteractionPromptUI.cs"
 "Assets/Level 2/Forest_Level/Scripts/InteractionSystem/Interactor.cs"
 "Assets/Level 2/Forest_Level/Scripts/InteractionSystem/InterfaceInteractable.cs"
 "Assets/Level 2/Forest_Level/Scripts/InteractionSystem/Inventario.cs"
 "Assets/Level 2/Forest_Level/Scripts/PlayerController.cs"
+"Assets/Level 2/Forest_Level/Scripts/SeguimientoDeCamara.cs"
 "Assets/Level 2/Forest_Level/Scripts/TimerManager.cs"
-=======
 "Assets/Level 4/Forest-Town/FROOD/Scripts/Spin.cs"
 "Assets/Level 4/Forest-Town/Lava_Flowing_Shader/Scripts/ScrollingUVs_Layers.cs"
 "Assets/Level 4/Forest-Town/LowPolyWater_Pack/Scripts/LowPolyWater.cs"
@@ -405,7 +403,6 @@
 "Assets/Level 4/Forest-Town/Scripts/TypeEffect.cs"
 "Assets/Level 4/Forest-Town/Scripts/underworld.cs"
 "Assets/Level 4/Forest-Town/Scripts/WolfAttackTrigger.cs"
->>>>>>> level_4
 -langversion:9.0
 
 /deterministic
