@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 C:\Users\Usuario\Desktop\Respositorio Nuevo\Fractured_Mind\Fractured_Mind
+=======
+C:\Users\aleja\OneDrive\Escritorio\Level1\Fractured_Mind\Fractured_Mind
+>>>>>>> a3b5b88b15911729bfd91ccb24378d6a4067a8e9

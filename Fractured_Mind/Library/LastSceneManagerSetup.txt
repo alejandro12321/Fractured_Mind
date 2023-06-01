@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 sceneSetups: []
+=======
+sceneSetups:
+- path: Assets/Level 1/Scenes/Castle_Level.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+>>>>>>> a3b5b88b15911729bfd91ccb24378d6a4067a8e9
